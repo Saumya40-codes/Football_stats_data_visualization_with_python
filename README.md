@@ -4,4 +4,10 @@ I've made the two charts one plot and another scatter plot related to most inter
 
 Have added the csv file from which I have taken the data
 And also two image file showing the final output of both
+
+I have using following libraries of python:
+-Pandas
+-> DataFrame
+-matplotlib
+->pyplot
 """

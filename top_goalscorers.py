@@ -34,7 +34,7 @@ print("Scored by:",to_df['scorer'].value_counts().idxmax())
 
 #using scatter plot function of pyplot
 pyplot.scatter(list_x,list_goals,alpha=0.9,edgecolors=['orange','purple'],label='player names')
-pyplot.title("Goals scored by big football players(since 1979(approx)) \t\t src:https://kaggle.com")
+pyplot.title("Most International goals scored by big football players(since 1979(approx)) \t\t src:https://kaggle.com")
 pyplot.xlabel('This kind of basically shows who scored first')
 pyplot.ylabel("Goals scored")
 
