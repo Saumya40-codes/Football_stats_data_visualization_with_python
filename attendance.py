@@ -27,4 +27,3 @@ plt.title('Attendance during the world cup games    src:https://kaggle.com')
 plt.xlabel("Matches")
 plt.ylabel('Attendance')
 plt.show()
-
