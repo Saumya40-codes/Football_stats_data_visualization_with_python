@@ -7,7 +7,7 @@ And also three image files showing the final output of both
 
 I have using following libraries of python:
 -Pandas
--> DataFrame
+->DataFrame
 -matplotlib
 ->pyplot
 """
