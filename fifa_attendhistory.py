@@ -16,8 +16,6 @@ attend = []
 for i in df_data.attendance.values:
     attend.append(i)
 
-y = attend
-
 grp = pt.bar(host_name,attend,color=['red','yellow'])
 pt.xlabel('Host Country')
 pt.ylabel('Total attendance of all matches during the tournament(the given values are in crores)')
