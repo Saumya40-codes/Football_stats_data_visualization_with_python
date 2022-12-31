@@ -6,8 +6,8 @@ Have added the csv file from which I have taken the data
 And also three image files showing the final output of both
 
 I have using following libraries of python:
--Pandas
+-pandas lib
 ->DataFrame
--matplotlib
+-matplotlib lib
 ->pyplot
 """
