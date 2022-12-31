@@ -7,6 +7,6 @@ And also three image files showing the final output of both
 
 I have using following libraries of python:
 -pandas lib
-->DataFrame
+-->DataFrame
 -matplotlib lib
-->pyplot
+-->pyplot
