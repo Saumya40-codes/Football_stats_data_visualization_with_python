@@ -3,7 +3,7 @@ from pandas import DataFrame
 from matplotlib import pyplot as pt
 
 #reading file and converting it in DataFrame
-df_data = DataFrame(pd.read_excel('FIFA_history.xlsx'))
+df_data = DataFrame(pd.read_excel('fifa_attendhistory_src.xlsx'))
 
 #adding host countries names
 host_name = []

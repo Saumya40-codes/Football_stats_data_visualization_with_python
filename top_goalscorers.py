@@ -3,7 +3,7 @@ from pandas import DataFrame
 from matplotlib import pyplot  
 
 #reading the csv file
-file_read = pd.read_csv('goalscorers.csv',delimiter=',')
+file_read = pd.read_csv('top_goalscorers_src.csv',delimiter=',')
 #converting this to the DataFrame
 to_df = DataFrame(file_read)
 

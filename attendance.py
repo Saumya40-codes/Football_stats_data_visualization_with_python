@@ -3,7 +3,7 @@ from pandas import DataFrame
 from matplotlib import pyplot as plt
 
 #reading csv file and converting it to a DataFrame
-df_data = DataFrame(pd.read_csv('Attendance Sheet.csv',delimiter=','))
+df_data = DataFrame(pd.read_csv('fifa_attendhistory_src.csv',delimiter=','))
 
 match_name = []
 str = ""
